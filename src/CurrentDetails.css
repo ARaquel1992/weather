@@ -1,0 +1,41 @@
+.CurrentDetails {
+  border: solid 1.5px #af7e60;
+  background: rgba(255, 255, 255, 0.5);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 20px;
+  margin-bottom: 30px;
+}
+
+.CurrentDetails .row {
+  margin: auto;
+}
+.CurrentDetails .col p {
+  font-size: 250px;
+  text-align: center;
+  font-weight: 600;
+  margin: auto;
+}
+.CurrentDetails .row .col-3 strong {
+  position: absolute;
+  right: 20px;
+  bottom: 0px;
+  font-size: 30px;
+}
+a#celsius-link {
+  color: #7ea04d;
+  cursor: default;
+}
+a#celsius-link:hover {
+  text-decoration: none;
+  color: #7ea04d;
+  font-size: 50px;
+}
+a#fahrenheit-link {
+  color: #7ea04d;
+  cursor: default;
+}
+a#fahrenheit-link:hover {
+  text-decoration: none;
+  color: #7ea04d;
+  font-size: 50px;
+}

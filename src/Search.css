@@ -1,0 +1,18 @@
+.form-control {
+  border-radius: 30px;
+  position: relative;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+.col-2 .btn {
+  position: relative;
+  float: left;
+  left: 0px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  background-color: rgba(255, 255, 255, 0.5);
+}
+.col .btn {
+  position: relative;
+  float: right;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  background-color: rgba(255, 255, 255, 0.5);
+}

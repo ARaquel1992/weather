@@ -1,0 +1,15 @@
+.Description .row {
+  margin: auto;
+}
+.Description ul {
+  margin: 0 0 16px 0;
+  padding: 0px;
+}
+.Description ul li {
+  list-style: none;
+  line-height: 35px;
+}
+.Description .col-6 {
+  text-align: center;
+  text-transform: capitalize;
+}

@@ -6,14 +6,14 @@ export default function Footer() {
     <div className="Footer">
       <footer>
         <a
-          href="https://github.com/ARaquel1992/weather-app-final"
+          href="https://github.com/ARaquel1992/weather"
           target="_blank"
         >
           Open source
         </a>
         coded by{" "}
         <a
-          href="https://optimistic-bhaskara-04304f.netlify.app"
+          href="https://friendly-tereshkova-c67bda.netlify.app"
           target="_blank"
         >
           Ana Silva
